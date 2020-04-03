@@ -21,8 +21,6 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <uses-feature
         android:name="android.hardware.touchscreen"
@@ -64,7 +62,7 @@
             android:value="True" />
         <meta-data
             android:name="unity.build-id"
-            android:value="e113daf5-e523-4842-956f-50bc37cc01da" />
+            android:value="6be31b48-843e-4c90-b3d6-3ead5d4aaadb" />
     </application>
 
 </manifest>
